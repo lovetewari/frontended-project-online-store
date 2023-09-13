@@ -14,6 +14,8 @@ const Hero = () => {
         </h1>
         <p>
   Welcome to the House of <a href="https://www.blacksmithatticus.com/#/" target="_blank" rel="noopener noreferrer" className="fancy-text">Blacksmithatics</a> and <a href="https://graphicseating.wixsite.com/graphic" target="_blank" rel="noopener noreferrer" className="fancy-text">Graphic</a>.
+Brands Revealed via NM Decor. 
+
 </p>
 
         <Link to="/products" className="btn hero-btn">
