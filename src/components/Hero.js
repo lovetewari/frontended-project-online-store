@@ -13,7 +13,7 @@ const Hero = () => {
           <span className="highlight">With Care</span>
         </h1>
         <p>
-  Welcome to the House of <a href="https://www.blacksmithatticus.com/#/" target="_blank" rel="noopener noreferrer" className="fancy-text">Blacksmithatics</a> and <a href="https://graphicseating.wixsite.com/best" target="_blank" rel="noopener noreferrer" className="fancy-text">Graphic Seating Collection</a>.
+  Welcome to the House of <a href="https://www.blacksmithatticus.com/#/" target="_blank" rel="noopener noreferrer" className="fancy-text">Blacksmithatics</a> and <a href="https://graphicseating.wixsite.com/graphic" target="_blank" rel="noopener noreferrer" className="fancy-text">Graphic</a>.
 </p>
 
         <Link to="/products" className="btn hero-btn">
